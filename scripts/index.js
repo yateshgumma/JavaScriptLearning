@@ -7,7 +7,7 @@ function getUserStatus(){
      userName = "Yatesh Laxman"
      console.log(userName);
  }
-showUserStatus();
-getUserName();
+ showUserName();
+getUserStatus();
 console.log(userName);
 console.log(userStatus);
